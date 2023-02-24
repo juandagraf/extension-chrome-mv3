@@ -1,0 +1,18 @@
+body {
+    background-color: #343245;
+    color: rgba(255, 255, 255, 0.87);
+    
+}
+
+button {
+    margin: auto;
+    padding: 5px;
+    display: block;
+}
+
+.contador {
+    margin: auto;
+    padding: 10px;
+    font-size: large;
+    width:260px;
+}
